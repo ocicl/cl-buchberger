@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~jmbr/cl-buchberger   |
-| commit  |   |
-| systems | cl-buchberger |
-|---------+-------------------------------------------|
+52f12e5---------+-------------------------------------------|
+52f12e5 source  | git:https://git.sr.ht/~jmbr/cl-buchberger   |
+52f12e5 commit  |   |
+52f12e5 systems | cl-buchberger |
+52f12e5---------+-------------------------------------------|
 
